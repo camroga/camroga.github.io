@@ -161,7 +161,18 @@ $if(lecturer)$
 $endif$
 % \newpage
 
+$if(languages)$
+  \colorbox{Languages}
+  \begin{itemize}{\footnotesize
+    $for(languages)$
+      \item $languages$
+        $endfor$
+        }
+  \end{itemize}
+$endif$
+
 $if(certification)$
+\newpage
   \colorbox{Licenses and Certifications}
   $for(certification)$
   \listing{$certification.title$}{$certification.years$}{$certification.organization$}{}
@@ -225,16 +236,6 @@ $if(private-project)$
 $endif$
 
 
-$if(languages)$
-  \colorbox{Languages}
-  \begin{itemize}{\footnotesize
-    $for(languages)$
-      \item $languages$
-        $endfor$
-        }
-  \end{itemize}
-$endif$
-
 $if(skills)$
   \colorbox{Skills}
   \begin{itemize}
@@ -274,7 +275,6 @@ $if(tech)$
 $endif$
 
 $if(references)$
-\newpage
   \colorbox{References}{\footnotesize
   \begin{itemize}
     $for(references)$

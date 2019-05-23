@@ -23,13 +23,21 @@ intro:  I have been working as software developer for about six years. I have
 
 experience:
 
+  - years: 2018-present
+    job: Developer
+    employer: Paypont
+    city: Brisbane, Australia
+    languages: Java, Kotlin.
+    tasks:
+      - Analyze requirements, implement and maintain software
+
   - years: 2017-present
     job: Senior developer
     employer: Pyxis company
     city: Medellín, Colombia
     languages: Android, Java.
     tasks:
-      - Design, implement and maintain software
+      - Analyze requirements, design, implement and maintain software
 
   - years: 2015-2017
     job: Developer architect
@@ -37,14 +45,14 @@ experience:
     city: Medellín, Colombia
     programming languages: Angular, Java.
     tasks:
-      - design, implement and maintain software
+      - Analyze requirements, design, implement and maintain software
 
   - years: 2013-2014
     job: Software engineer
     employer: Indra company
     city: Pereira, Colombia
     tasks:
-        - implement and maintain software
+        - Analyze requirements, implement and maintain software
 
 education:
   - years: 2018-2019

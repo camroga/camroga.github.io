@@ -1,179 +1,100 @@
 ---
-name: Jonathan Prieto-Cubides
-date-of-birth: 1991-04-18
+name: Camilo Rodríguez-Garzón
+date-of-birth: 1990-12-17
 gender: Male
 citizenship: Colombia
-current-profession: Ph.D. Research Fellow
+current-profession: Androide Developer
 
-email: jcu043@uib.no, jprieto9@eafit.edu.co
+email: cam_rod@hotmail.com, carodriguezga@gmail.com
 website:
-  primary: http://www.github.com/jonaprieto
+  primary: http://www.github.com/camroga
 
 phone:
-  primary: +47 46860287
+  primary: +57 (321) 904-0015
 
 address:
-  line1: CR 45 No. 68 Sur 36\hspace{3mm} Sabaneta, Antioquia
-  line2: Fosswinckels GATE13, 5007, Bergen, Norway
+  line1: CR 9 B No. 2 E - 11 \hspace{3mm} Pereira, Risaralda
 
-intro:  Ph.D Research Fellow in the Department of Informatics at University of
-  Bergen in Norway. Currently studying mathematics for computer science, i.e.,
-  foundations and algorithms.
+intro:  I have been working as software developer for about six years. I have
+ experience designing enterprise application based in object-oriented programming. 
+ Furthermore, I know how to use agile methodologies in order to create successful 
+ projects. I am currently researching about optimization problems as a propose 
+ for the master's thesis.
 
-research:
+experience:
 
-  - years: 2018-present
-    job: Research Fellow
-    employer: University of Bergen. ICT Research Group. PUT.
-    city: Bergen, Norway
-    tasks:
-      - Type Theory, Functional Programming
-
-  - years: 2016-2017
-    job: Young Research Assistant
-    employer: EAFIT University. Logic and Computation Research Group
+  - years: 2017-present
+    job: Senior developer
+    employer: Pyxis company
     city: Medellín, Colombia
+    languages: Android, Java.
     tasks:
-      - Logic, Type Theory, Agda, Functional Programming
+      - Design, implement and maintain software
 
-  - years: 2013-2015
-    job: Young Researcher
-    employer: Observatorio de Restitución y Regulación de Derechos de la Propiedad Agraria
-    city: Bogotá, Colombia
-    tasks:
-        - Text Data Mining, Machine Learning, Algorithms, Functional Programming
-
-lecturer:
-  - years: 2016-II
-    job: Engineering
-    employer: Instituto Tecnológico Metropolitano
+  - years: 2015-2017
+    job: Developer architect
+    employer: Ceiba Software House
     city: Medellín, Colombia
+    programming languages: Angular, Java.
     tasks:
-        - name: Linear Algebra
-          years: \
-        - name: Linear Programming and Algebra
-          years: \
+      - design, implement and maintain software
 
-  - years: 2011-2014
-    job: Young Lecturer
-    employer: Universidad Sergio Arboleda
-    city: Bogotá, Colombia
+  - years: 2013-2014
+    job: Software engineer
+    employer: Indra company
+    city: Pereira, Colombia
     tasks:
-      - name: Algorithms I and II
-        years: 2011-2012, 2014
-      - name: Discrete Mathematics jointly Competitive Programming
-        years: 2014-2015
+        - implement and maintain software
 
 education:
-  - years: 2018-present
-    subject: Ph.D. in Computer Science
-    duration: 4 years
-    emphasis: Type Theory and Functional Programming
-    institute: University of Bergen
-    city: Bergen, Norway
-    tesis-title: --not available yet--
-    tesis-advisor: Marc Bezem
+  - years: 2018-2019
+    subject: English
+    duration: 6 month
+    emphasis: General English
+    institute: The University of Queensland
+    city: Brisbane, Australia.
 
-  - years: 2016-2017
+  - years: 2016-present
     subject: Master in Applied Mathematics
     duration: 2 years
-    emphasis: Logic, Type Theory, and Functional Programming.
+    emphasis: TimeTabling Programming
     institute: EAFIT University
     city: Medellín, Colombia.
-    tesis-title: Proof Reconstruction for Metis in Agda
-    tesis-advisor: Andrés Sicard-Ramírez
+    tesis-title: --not available yet--
+    tesis-advisor: PhD. Juan Rivera
 
   - years: 2007-2013
-    subject: Bachelor in Mathematics
+    subject: Systems and Computing Engineer Degree
     duration: 5 years
     emphasis: Computer Science
-    institute: Sergio Arboleda University
-    city: Bogotá, Colombia.
-    tesis-title: An Introduction to Elliptic Curves
-    tesis-advisor: PhD. Hermes Jackson
-
-achievements:
-  - Scholarship. Agda Implementors’ Meeting XXV at Chalmers University. Gotenburg, Sweden.
-  - Scholarship to study the master program in applied mathematics at EAFIT University
-  - Financial support to study mathematics at Sergio Arboleda University
-  - Member of the the program for talent young of high school. Sergio Arboleda University
-  - ACM-ICPC 2013 Regional Programing Contest. 9th Place, WTF Team
-  - ACM-ICPC 2013 National Programing Contest. 11th Place. WTF Team
-  - Honor mention. Colombian Math Contest 2010
-  - Scholarship. Symposium ANTS X. San Diego, California. EEUU
-  - Early promotion at high school. 5th grade to 6th grade
-  - Early promotion at high school. 7th grade to 8th grade
-  - Honors Academic Excellence, 10 and 11 degree in the school
-  - National high school qualification exam ICFES. 4th place/group
-  - McDonald's drawing contest for schools. 1th Place 1997
+    institute: Universidad Tecnólogica de Pereira
+    city: Pereira, Colombia.
+    tesis-title: Protocolo de comunicación entre el centro de control y gestión de tráfico de la ciudad de Pereira y la flota de Integra S.A.
+    tesis-advisor: PhD. Carlos Meneses-Escobar
 
 references:
-  - Phd. Andrés Sicard-Ramírez. asr@eafit.edu.co. Computer Science. EAFIT University
-  - Phd(c). Paola Lizarralde-Bejarano. dlizarra@eafit.edu.co. Mathematics. EAFIT University
-  - Phd. Camilo Argoty.  argoty7@gmail.com. Mathematics. Sergio Arboleda University
-  - Phd. Esteban Hernández. Computer Science. eshernan@gmail.com Universidad Distrital de Bogotá.
+  - Phd. Juan Rivera. jrivera6@eafit.edu.co. Optimization. EAFIT University.
 
-paper:
-  - Prieto-Cubides J., Argoty Camilo. \emph{Dealing with Missing Data using a Selection Algorithm on Rough Sets}. 2017.
-    International Journal of Computational Intelligence Systems. (Submitted)
+certification:
+  - title: Data Structures
+    credentialId: VDHCSCAD3QPD
+    years: 2017
+    organization: Coursera Course Certificates
 
+  - title: Algorithmic Toolbox
+    credentialId: GU7W89GTGNNL
+    years: 2016
+    organization: Coursera Course Certificates
 
-private-project:
-  - name: Poirot
-    sponsor: Sergio Arboleda University, IEPRI, COLCIENCIAS
-    year: 2014-2016
-    description: Poirot is a text search, a package, and analysis platform
-      programmed in Mathematica®, designed for retrieval, analysis and
-      systematization of large textual data (in the order of tens of thousands
-      of files). Poirot is tailored for the needs of qualitative researchers,
-      journalists, and state officials (in the judiciary, for example), that
-      need to find specific textual bits in big masses of unstructured text.
-    language: Mathematica
+  - title: Scrum Developer
+    credentialId: 000447778
+    years: 2015-2017
+    organization: Scrum Alliance
 
-open-source-project:
-
-  - name: Athena
-    url: http://github.com/jonaprieto/athena
-    description: Athena is a Haskell program that translates proofs given by Metis Prover in TSTP format to Agda code.
-      This work was present in the \href{http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.AIMXXV}{Agda Implementors' Meeting XXV}
-      at Chalmers University.
-    language: Haskell, Agda
-
-  - name: Agda-Prop
-    url: http://github.com/jonaprieto/agda-prop
-    description: Agda library to work with Classical Propositional Logic using
-      a deep embedding. Natural deductions Proofs for around seventy theorems.
-    language: Agda
-
-  - name: Agda-Metis
-    url: http://github.com/jonaprieto/agda-metis
-    description: This library aims to provide the necessary functions and
-      theorems for Athena to reconstruct proofs found by the automatic
-       theorem prover, Metis.
-    language: Agda
-
-  - name: OnlineATPs
-    url: http://github.com/jonaprieto/online-atps
-    description: OnlineATPs is a command-line client for TPTP World.
-      We can use an online ATP as it would be running locally.
-      Indeed, SystemOnTPTP has available more than forty automatic theorem
-      provers and we take avantage of all.
-    language: Haskell
-
-  - name: Curriculum-Vitae
-    url: http://github.com/jonaprieto/curriculum-vitae
-    description: This document was generated using this project. It makes easier maintain your Resume using LaTeX and Pandoc.
-    language: Latex
-
-  - name: PonyWhoosh
-    url: http://github.com/jonaprieto/ponywhoosh
-    description: Integration between the Whoosh search engine and PonyORM, this library makes your database full-text searchable
-    language: Python
-
-  - name: Flask-PonyWhoosh
-    url: http://github.com/jonaprieto/flask-ponywhoosh
-    description: A web search engine for flask using PonyORM and Whoosh.
-    language: Python
+  - title: Scrum Master
+    credentialId: 213003-07
+    years: 2015-2018
+    organization: SEONTI
 
 languages:
   - English - B2

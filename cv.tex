@@ -124,6 +124,24 @@ $if(research)$
   $endfor$
 $endif$
 
+$if(experience)$
+  \colorbox{Profesional Experience}
+  $for(experience)$
+    \listing{$experience.job$}{$experience.years$}{$experience.employer$. $experience.city$}{}
+    $if(experience.tasks)$
+      \begin{itemize}
+        $for(experience.tasks)$
+          $if(experience.tasks.years)$
+            \item $experience.tasks.name$ \hfill {\footnotesize $experience.tasks.years$}
+          $else$
+            \item {\footnotesize $experience.tasks$}
+          $endif$
+        $endfor$
+      \end{itemize}
+    $endif$
+  $endfor$
+$endif$
+
 $if(lecturer)$
   \colorbox{Teaching Experience}
   $for(lecturer)$
@@ -143,21 +161,31 @@ $if(lecturer)$
 $endif$
 % \newpage
 
-  $if(education)$
-    \colorbox{Education}
-    $for(education)$
-      \education{$education.subject$}{$education.years$}{$education.institute$. $education.city$}{($education.duration$)}{\emph{Emphasis in $education.emphasis$}}
-      $if(education.tesis-title)$
-      {\footnotesize
-      \begin{itemize}
-        \item[] Thesis Title. $education.tesis-title$
-        \item[] Advisory.     $education.tesis-advisor$
-      \end{itemize}
-      }
-      $endif$
-    $endfor$
-  $endif$
+$if(certification)$
+  \colorbox{Licenses and Certifications}
+  $for(certification)$
+  \listing{$certification.title$}{$certification.years$}{$certification.organization$}{}
+  \begin{tabularx}{\linewidth}{Xr}
+    {\footnotesize $certification.credentialId$}
+  \end{tabularx}
+  $endfor$
+$endif$
 
+$if(education)$
+  \colorbox{Education}
+  $for(education)$
+    \education{$education.subject$}{$education.years$}{$education.institute$. $education.city$}{($education.duration$)}{\emph{Emphasis in $education.emphasis$}}
+    $if(education.tesis-title)$
+    {   
+      \footnotesize
+      \begin{itemize}
+      \item[] Thesis Title. $education.tesis-title$
+      \item[] Advisory.     $education.tesis-advisor$
+      \end{itemize}
+    }
+    $endif$
+  $endfor$
+$endif$
 
 $if(paper)$
   \colorbox{Publications}
@@ -182,7 +210,6 @@ $if(open-source-project)$
 
     $endfor$
 $endif$
-
 
 $if(private-project)$
   \colorbox{Private Projects}

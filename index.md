@@ -1,7 +1,10 @@
 -----
-Camilo Andrés Rodríguez Garzón
-(+57) 3174310908
-cam_rod@hotmail.com | LinkedIn | GitHub
+<div id="webaddress">
+  <a href="(+57) 3174310908">(+57) 3174310908</a>
+| <a href="cam_rod@hotmail.com">cam_rod@hotmail.com</a>
+| <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/">LinkedIn</a>
+| <a href="https://github.com/camroga">GitHub</a>
+</div>
 -----
 
 #About me

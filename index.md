@@ -1,4 +1,7 @@
-<h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
+## About me
+
+<p style='text-align: justify;'> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching about optimization problems as a propose for the master's thesis. </p>
+
 <p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>
   cam_rod@hotmail.com</p>
 <div>
@@ -12,10 +15,6 @@
     </a> 
   </p>
 </div>
-
-## About me
-
-<p style='text-align: justify;'> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching about optimization problems as a propose for the master's thesis. </p>
 
 ## TECHNICAL SKILLS
 

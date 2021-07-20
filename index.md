@@ -1,5 +1,5 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1> 
-<p align="center">+57 3174310908<br>cam_rod@hotmail.com</p>
+<p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>cam_rod@hotmail.com</p>
 <div>
   <p align="center">
     <a href="https://www.facebook.com/crodriguezgarzon">
@@ -23,9 +23,9 @@ About me
 TECHNICAL SKILLS
 ----------------
 <ul>
-  <li>Programming Language: Android, Java, Kotlin, Flutter, Haskell, JavaScript, Python.</li>
-  <li>Data base: MongoDB, Oracle, PostgreSQL, SQLite.</li>
-  <li>Others: AngularJS, Gradle, Maven and GIT.</li>
+  <li><code>Programming Language</code>: Android, Java, Kotlin, Flutter, Haskell, JavaScript, Python.</li>
+  <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, SQLite.</li>
+  <li><code>Others</code>: AngularJS, Gradle, Maven and GIT.</li>
 </ul>
 
 Professional Experience
@@ -123,7 +123,8 @@ Certifications
   <li>Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017</li>
 </ul> 
 
-### Play Store
+Play Store
+----------
 
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker">Scrum Poker</a></li>

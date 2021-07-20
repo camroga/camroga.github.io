@@ -3,9 +3,8 @@
   cam_rod@hotmail.com</p>
 <div>
   <p align="center">
-    <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon">
-      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" />
-    </a>
+    <a href="https://stackoverflow.com/users/11279246/camroga">
+      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" /></a>
     <a href="https://stackoverflow.com/users/11279246/camroga">
       <img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="32px" height="32px" /></a>
     <a href="https://github.com/camroga/">

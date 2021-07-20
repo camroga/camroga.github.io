@@ -16,7 +16,7 @@
 
 ## About me
 
-<p style='text-align: justify;'> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching optimization problems as a proposal for the master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching optimization problems as a proposal for the master's thesis. </p>
 
 ## TECHNICAL SKILLS
 

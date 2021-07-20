@@ -1,7 +1,4 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
-<p align="center">
-  <img src="assets/camilo.jpg" width="220" />
-<p/>
 <p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>
   cam_rod@hotmail.com</p>
 <div>

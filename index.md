@@ -95,17 +95,17 @@ operation of public transport in the city in real time.
 
 ## Education
 
-+ <p><b>Universidad EAFIT Colombia </b> Promotion: July 2021 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
+- <p><b>Universidad EAFIT Colombia </b> Promotion: July 2021 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
 
-+ <p><b>The Technological University of Pereira Colombia</b>  Promotion: 2013 <br> <i>Systems and Computing Engineer Degree</i></p>
+- <p><b>The Technological University of Pereira Colombia</b>  Promotion: 2013 <br> <i>Systems and Computing Engineer Degree</i></p>
 
-+ <p><b>The University of Queensland</b> Promotion: February 2019 <br> <i>Course, General English</i></p>
+- <p><b>The University of Queensland</b> Promotion: February 2019 <br> <i>Course, General English</i></p>
                                            
 
 ## Accomplishments
 
-+ **English**: intermediate 
-+ **Spanish**: native
+- **English**: intermediate 
+- **Spanish**: native
 
 ## Certifications
 

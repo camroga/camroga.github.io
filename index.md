@@ -22,15 +22,17 @@ I have been working as a software developer for 9 years up to date. I have vast 
 
 TECHNICAL SKILLS
 ----------------
-• Programming Language: Android, Flutter, Haskell, Java, JavaScript, Python.
-• Data base: MongoDB, Oracle, PostgreSQL, SQLite.
-• Others: AngularJS, Gradle, Maven and GIT.
+<ul>
+  <li>Programming Language: Android, Flutter, Haskell, Java, JavaScript, Python.</li>
+  <li>Data base: MongoDB, Oracle, PostgreSQL, SQLite.</li>
+  <li>Others: AngularJS, Gradle, Maven and GIT.</li>
+</ul>
 
 Professional Experience
 ---------------------------------
 
 <h3>Developer <br> Pyxis Company</h3>
-<h4>March 2017 – Present <br> Medellín/Colombia - Montevideo/Uruguay</h4>
+<h4>Medellín/Colombia - Montevideo/Uruguay <br> March 2017 – Present </h4>
 
 ```diff
 Job: Flutter developer internal project
@@ -55,27 +57,31 @@ Description: Development of Android application for Coca-Cola FEMSA whose object
 create motivation strategies such as campaigns and training which are obtained through this.
 ```
 
-Developer - Freelance
-##Paypont Company - Brisbane/Australia December 2018 – March 2020
-###Job: Developer Admin Portal
+<h3>Developer - Freelance <br> Paypont Company</h3>
+<h4>Brisbane/Australia <br> December 2018 – March 2020</h4>
+
+```diff
+Job: Developer Admin Portal
 Technical knowledge: Kotlin, Css, Html, Freemarker, Spring framework and Sql server.
 Description: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
 Developer
 
-##Company Ceiba Software House - Medellín/Colombia April 2015 – February 2017
-###Job: Developer architect for ARUS
+Company Ceiba Software House - Medellín/Colombia April 2015 – February 2017
+Job: Developer architect for ARUS
 Technical knowledge: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle. Description: Development of the ARUS website, which provides all individuals and companies to liquidate and pay
 their contributions to the system of the social protection.
 
-###Job: Developer architect for Konfirma
+Job: Developer architect for Konfirma
 Technical knowledge: AngularJS, Bower, Bootstrap, Css, Html, Gradle, Grunt, Java, RESTful Web Services,
 MongoDB, Yeoman with continuous deployment in Amazon.
 Description: Develop Konfirma website, a Colombian company that provides supplier management and risk
 verification services to support decision making.
-Developer
-Company Indra - Pereira/Colombia
+```
+<h3>Developer <br> Indra Company</h3>
+<h4>Pereira/Colombia July 2013 <br> December 2014</h4>
 
-###Job: Software engineer
+```diff
+Job: Software engineer
 Technical knowledge: CSS, HTML, Java, JavaScript, JSF, Maven, Oracle. Description: Develop Aviva website.
 Developer - Internship
 Company Integra - Pereira/Colombia
@@ -85,35 +91,42 @@ June 2012 – June 2013
 ###Job: Software engineer
 Technical knowledge: jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite. Description: Development of the website for Integra, a Colombian company that monitors and controls the
 operation of public transport in the city in real time.
+```
 
-#Education
+Education
+----------
 
-##Universidad EAFIT Colombia                                              Promotion: July 2021 (expected)
-Master’s in Applied Mathematics
+<p><b>Universidad EAFIT Colombia </b> Promotion: July 2021 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
 
-#The Technological University of Pereira Colombia                         Promotion: 2013
-Systems and Computing Engineer Degree
+<p><b>The Technological University of Pereira Colombia</b>  Promotion: 2013 <br> <i>Systems and Computing Engineer Degree</i></p>
 
-##The University of Queensland                                            Promotion: February 2019
-Course, General English
+<p><b>The University of Queensland</b> Promotion: February 2019 <br> <i>Course, General English</i></p>
+                                           
+
 Accomplishments
+---------------
 
-#English: intermediate Spanish: native
+English: intermediate Spanish: native
 
-#Certifications
+Certifications
+--------------
 
-• Kotlin for java developers – Coursera Course Certificate 2021
-• Matrix Algebra for Engineers – Coursera Course Certificate 2020
-• Parallel, Concurrent, and Distributed Programming in Java – Coursera Course Certificate 2020
-• Machine learning - License A9NNFSKDBN7J – Coursera Course Certificate 2019
-• Data Structures - License VDHCSCAD3QPD – Coursera Course Certificate 2017
-• Algorithmic Toolbox - License GU7W89GTGNNL - Coursera Course Certificate 2016
-• Scrum Master - License 213003-07 – SEONTI 2015 – 2018
-• Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017
+<ul>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3">Kotlin for java developers – Coursera Course Certificate 2021</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/PWZDQCTZD4NS?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Matrix Algebra for Engineers – Coursera Course Certificate 2020</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/specialization/VX4KHX8GCN7X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n">Parallel, Concurrent, and Distributed Programming in Java – Coursera Course Certificate 2020</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/A9NNFSKDBN7J">Machine learning - License A9NNFSKDBN7J – Coursera Course Certificate 2019</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/VDHCSCAD3QPD">Data Structures - License VDHCSCAD3QPD – Coursera Course Certificate 2017</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/GU7W89GTGNNL">Algorithmic Toolbox - License GU7W89GTGNNL - Coursera Course Certificate 2016</a></li>
+  <li>Scrum Master - License 213003-07 – SEONTI 2015 – 2018</li>
+  <li>Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017</li>
+</ul> 
 
-#Play Store
+### Play Store
 
-• Scrum Poker
-• Oca
-• Amigo Femsa
-• Kime
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker">Scrum Poker</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas">Oca</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa">Amigo Femsa</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.p4h">Kime</a></li>
+</ul>

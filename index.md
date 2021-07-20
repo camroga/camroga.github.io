@@ -2,14 +2,15 @@
 <p align="center">
   <img style='border:1px solid black;' src="assets/camilo.jpg" width="220" />
 <p/>
-<p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>cam_rod@hotmail.com</a></p>
+<p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>cam_rod@hotmail.com</p>
 <div>
   <p align="center">
     <a href="https://stackoverflow.com/users/11279246/camroga">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" 
-           width="32px" height="32px" /></a> <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/">
+           width="32px" height="32px" /></a>
+    <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon">
       <img src="https://cdn4.iconfinder.com/data/icons/vector_social_media_icons/32px/linkedin.png" width="32px" height="32px" />
-    </a> 
+    </a>
     <a href="https://github.com/camroga/">
       <img src="https://octodex.github.com/images/octonaut.jpg" width="32px" height="32px" />
     </a> 

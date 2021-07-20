@@ -1,16 +1,19 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
+<p align="center">
+  <img src="assets/camilo.jpg" width="220" />
+<p/>
 <p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>
   cam_rod@hotmail.com</p>
 <div>
   <p align="center">
     <a href="https://stackoverflow.com/users/11279246/camroga">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" 
+      <img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" 
            width="32px" height="32px" /></a>
     <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon">
-      <img src="https://cdn4.iconfinder.com/data/icons/vector_social_media_icons/32px/linkedin.png" width="32px" height="32px" />
+      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" />
     </a>
     <a href="https://github.com/camroga/">
-      <img src="https://octodex.github.com/images/octonaut.jpg" width="32px" height="32px" />
+      <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="32px" height="32px" />
     </a> 
   </p>
 </div>

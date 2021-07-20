@@ -1,10 +1,10 @@
-<h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1> 
+<h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
+<p align="center">
+  <img src="https://github.com/camroga/camroga.github.io/blob/master/assets/camilo.jpg"  />
+<p/>
 <p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+57 3174310908</a><br>cam_rod@hotmail.com</p>
 <div>
   <p align="center">
-    <a href="https://www.facebook.com/crodriguezgarzon">
-      <img src="http://www.download82.com/images/produse/iconuri/facebook-for-android.gif" width="32px" height="32px" />
-    </a> 
     <a href="https://stackoverflow.com/users/11279246/camroga">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" 
            width="32px" height="32px" /></a> <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/">

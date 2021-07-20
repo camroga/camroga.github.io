@@ -17,20 +17,19 @@
   </p>
 </div>
 
-About me
--------
+## About me
+
 <p style='text-align: justify;'> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching about optimization problems as a propose for the master's thesis. </p>
 
-TECHNICAL SKILLS
-----------------
+## TECHNICAL SKILLS
+
 <ul>
   <li><code>Programming Language</code>: Android, Java, Kotlin, Flutter, Haskell, JavaScript, Python.</li>
   <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, SQLite.</li>
   <li><code>Others</code>: AngularJS, Gradle, Maven and GIT.</li>
 </ul>
 
-Professional Experience
----------------------------------
+## Professional Experience
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – Present</code> <br> 
   Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
@@ -94,8 +93,7 @@ verification services to support decision making.
 <code>Description</code>: Development of the website for Integra, a Colombian company that monitors and controls the
 operation of public transport in the city in real time.
 
-Education
-----------
+## Education
 
 + <p><b>Universidad EAFIT Colombia </b> Promotion: July 2021 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
 
@@ -104,14 +102,12 @@ Education
 + <p><b>The University of Queensland</b> Promotion: February 2019 <br> <i>Course, General English</i></p>
                                            
 
-Accomplishments
----------------
+## Accomplishments
 
 + **English**: intermediate 
 + **Spanish**: native
 
-Certifications
---------------
+## Certifications
 
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3">Kotlin for java developers – Coursera Course Certificate 2021</a></li>
@@ -124,8 +120,7 @@ Certifications
   <li>Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017</li>
 </ul> 
 
-Play Store
-----------
+## Play Store
 
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker">Scrum Poker</a></li>

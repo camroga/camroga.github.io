@@ -23,7 +23,7 @@ About me
 TECHNICAL SKILLS
 ----------------
 <ul>
-  <li>Programming Language: Android, Flutter, Haskell, Java, JavaScript, Python.</li>
+  <li>Programming Language: Android, Java, Kotlin, Flutter, Haskell, JavaScript, Python.</li>
   <li>Data base: MongoDB, Oracle, PostgreSQL, SQLite.</li>
   <li>Others: AngularJS, Gradle, Maven and GIT.</li>
 </ul>
@@ -34,63 +34,63 @@ Professional Experience
 <p> <strong>Pyxis Company</strong> <code>March 2017 – Present</code> <br> 
   Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
-> Job: Flutter developer internal project. <br>
-Technical knowledge: Flutter, Dart and Firebase. <br>
-Description: The development of the application focuses on the area of human resources, how it can interact with
+> <code>Job</code>: Flutter developer internal project. <br>
+<code>Technical knowledge</code>: Flutter, Dart and Firebase. <br>
+<code>Description</code>: The development of the application focuses on the area of human resources, how it can interact with
 developers.
 
-> Job: Android developer for Oca <br>
-Technical knowledge: Android, Kotlin, Gradle, Jetpack and Firebase. <br>
-Description: Development of the app in Android for Oca company.
+> <code>Job</code>: Android developer for Oca <br>
+<code>Technical knowledge</code>: Android, Kotlin, Gradle, Jetpack and Firebase. <br>
+<code>Description</code>: Development of the app in Android for Oca company.
 
-> Job: Android developer for HNSV <br>
-Technical knowledge: Android, Kotlin, Gradle, Jetpack, Camera X and Retrofit. <br>
-Description: the application consists in check if a batch of cars meets the export requirements or not.
+> <code>Job</code>: Android developer for HNSV <br>
+<code>Technical knowledge</code>: Android, Kotlin, Gradle, Jetpack, Camera X and Retrofit. <br>
+<code>Description</code>: the application consists in check if a batch of cars meets the export requirements or not.
 
-> Job: Senior developer for Uruguayan government <br>
-Technical knowledge: Java, Postgres, Json schema, Velocity, Jersey, Swagger and Maven. <br>
-Description: The ACCE project provides access to information on purchases and contracts of the government.
+> <code>Job</code>: Senior developer for Uruguayan government <br>
+<code>Technical knowledge</code>: Java, Postgres, Json schema, Velocity, Jersey, Swagger and Maven. <br>
+<code>Description</code>: The ACCE project provides access to information on purchases and contracts of the government.
 
-> Job: Android developer for Coca-Cola FEMSA <br>
-Technical knowledge: android, firebase, java, SQLite, volley. <br>
-Description: Development of Android application for Coca-Cola FEMSA whose objective is to provide a tool to
+> <code>Job</code>: Android developer for Coca-Cola FEMSA <br>
+<code>Technical knowledge</code>: android, firebase, java, SQLite, volley. <br>
+<code>Description</code>: Development of Android application for Coca-Cola FEMSA whose objective is to provide a tool to
 create motivation strategies such as campaigns and training which are obtained through this.
 
 <p> <strong>Paypont Company</strong> <code>December 2018 – March 2020 </code> <br> 
   Freelance Developer <code>Brisbane/Australia</code></p> 
 
-> Job: Developer Admin Portal <br>
-Technical knowledge: Kotlin, Css, Html, Freemarker, Spring framework and Sql server. <br>
-Description: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
+> <code>Job</code>: Developer Admin Portal <br>
+<code>Technical knowledge</code>: Kotlin, Css, Html, Freemarker, Spring framework and Sql server. <br>
+<code>Description</code>: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
 Developer
 
 <p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia April 2015 – February 2017</code> <br> 
   Developer <code>Medellín/Colombia</code></p> 
 
-> Job: Developer architect for ARUS <br>
-Technical knowledge: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle.  <br>
-Description: Development of the ARUS website, which provides all individuals and companies to liquidate and pay
+> <code>Job</code>: Developer architect for ARUS <br>
+<code>Technical knowledge</code>: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle.  <br>
+<code>Description</code>: Development of the ARUS website, which provides all individuals and companies to liquidate and pay
 their contributions to the system of the social protection.
 
-> Job: Developer architect for Konfirma <br> 
-Technical knowledge: AngularJS, Bower, Bootstrap, Css, Html, Gradle, Grunt, Java, RESTful Web Services,
+> <code>Job</code>: Developer architect for Konfirma <br> 
+<code>Technical knowledge</code>: AngularJS, Bower, Bootstrap, Css, Html, Gradle, Grunt, Java, RESTful Web Services,
 MongoDB, Yeoman with continuous deployment in Amazon. <br> 
-Description: Develop Konfirma website, a Colombian company that provides supplier management and risk
+<code>Description</code>: Develop Konfirma website, a Colombian company that provides supplier management and risk
 verification services to support decision making.
 
 <p> <strong>Indra Company</strong> <code>Pereira/Colombia July 2013 - December 2014</code> <br> 
   Developer <code>Pereira/Colombia</code></p> 
 
-> Job: Software engineer <br>
-Technical knowledge: CSS, HTML, Java, JavaScript, JSF, Maven, Oracle. Description: Develop Aviva website.
-Developer - Internship
+> <code>Job</code>: Software engineer <br>
+<code>Technical knowledge</code>: CSS, HTML, Java, JavaScript, JSF, Maven, Oracle. <br> 
+<code>Description</code>: Develop Aviva website.
 
 <p> <strong>Integra Company</strong> <code>June 2012 – June 2013</code> <br> 
-  Developer <code>Pereira/Colombia</code></p> 
+  Developer - Internship <code>Pereira/Colombia</code></p> 
 
-> Job: Software engineer <br>
-Technical knowledge: jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite. <br>
-Description: Development of the website for Integra, a Colombian company that monitors and controls the
+> <code>Job</code>: Software engineer <br>
+<code>Technical knowledge</code>: jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite. <br>
+<code>Description</code>: Development of the website for Integra, a Colombian company that monitors and controls the
 operation of public transport in the city in real time.
 
 Education

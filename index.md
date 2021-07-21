@@ -4,11 +4,11 @@
   cam_rod@hotmail.com</p>
 <div>
   <p align="center">
-    <a href="https://stackoverflow.com/users/11279246/camroga">
+    <a href="https://stackoverflow.com/users/11279246/camroga" target='_blank'>
       <img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="32px" height="32px" /></a>
-    <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/">
+    <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/" target='_blank'>
       <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" /></a>
-    <a href="https://github.com/camroga/">
+    <a href="https://github.com/camroga/" target='_blank'>
       <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="32px" height="32px" />
     </a> 
   </p>

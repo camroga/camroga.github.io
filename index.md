@@ -108,12 +108,12 @@ operation of public transport in the city in real time.
 ## Certifications
 
 <ul>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3">Kotlin for java developers – Coursera Course Certificate 2021</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/PWZDQCTZD4NS?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Matrix Algebra for Engineers – Coursera Course Certificate 2020</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/specialization/VX4KHX8GCN7X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n">Parallel, Concurrent, and Distributed Programming in Java – Coursera Course Certificate 2020</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/A9NNFSKDBN7J">Machine learning - License A9NNFSKDBN7J – Coursera Course Certificate 2019</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/VDHCSCAD3QPD">Data Structures - License VDHCSCAD3QPD – Coursera Course Certificate 2017</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/GU7W89GTGNNL">Algorithmic Toolbox - License GU7W89GTGNNL - Coursera Course Certificate 2016</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3" target='_blank'>Kotlin for java developers – Coursera Course Certificate 2021</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/PWZDQCTZD4NS?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target='_blank'>Matrix Algebra for Engineers – Coursera Course Certificate 2020</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/specialization/VX4KHX8GCN7X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target='_blank'>Parallel, Concurrent, and Distributed Programming in Java – Coursera Course Certificate 2020</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/A9NNFSKDBN7J" target='_blank'>Machine learning - License A9NNFSKDBN7J – Coursera Course Certificate 2019</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/VDHCSCAD3QPD" target='_blank'>Data Structures - License VDHCSCAD3QPD – Coursera Course Certificate 2017</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/GU7W89GTGNNL" target='_blank'>Algorithmic Toolbox - License GU7W89GTGNNL - Coursera Course Certificate 2016</a></li>
   <li>Scrum Master - License 213003-07 – SEONTI 2015 – 2018</li>
   <li>Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017</li>
 </ul> 
@@ -121,8 +121,8 @@ operation of public transport in the city in real time.
 ## Play Store
 
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker">Scrum Poker</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas">Oca</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa">Amigo Femsa</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.p4h">Kime</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa" target='_blank'>Amigo Femsa</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.p4h" target='_blank'>Kime</a></li>
 </ul>

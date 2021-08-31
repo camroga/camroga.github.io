@@ -33,24 +33,28 @@
 <p> <strong>Pyxis Company</strong> <code>March 2017 – Present</code> <br> 
   Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
-> <code>Job</code>: Flutter developer internal project. <br>
+> <code>Role</code>: Flutter developer internal project. <br>
+<code>Duration</code>: I worked for 6 months making the Kime app. <br>
 <code>Technical knowledge</code>: Flutter, Dart and Firebase. <br>
-<code>Description</code>: The development of the application focuses on the area of human resources, how it can interact with
-developers.
+<code>Functionality</code>: The app is logged in using Hotmail 365. This has four functionalities that are publishing activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims.
 
-> <code>Job</code>: Android developer for Oca <br>
-<code>Technical knowledge</code>: Android, Kotlin, Gradle, Jetpack and Firebase. <br>
-<code>Description</code>: Development of the app in Android for Oca company.
+> <code>Role</code>: Senior Android Developer for Oca <br>
+<code>Duration</code>: I have worked for the last 2 years making the Oca mobile application. <br>
+<code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso. <br>
+<code>Architecture/design</code>: The project was upgraded using MVVM architecture and divided into five modules. three related to the main services of the app and two more for commons components of the views and a core module that manages the data source. <br>
+<code>Functionality</code>: The Oca app permits the customers to use many services of the application such as Recharge mobile phone, Pay taxi, Show Movements, Request a loan among others.
 
-> <code>Job</code>: Android developer for HNSV <br>
-<code>Technical knowledge</code>: Android, Kotlin, Gradle, Jetpack, Camera X and Retrofit. <br>
-<code>Description</code>: the application consists in check if a batch of cars meets the export requirements or not.
+> <code>Role</code>: Senior Android Developer. <br>
+<code>Duration</code>: I worked for 8 months making the HNSV mobile application. <br>
+<code>Technical knowledge</code>: Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location and Jetpack (LiveData, ViewModel, data bindings, Room, among others), Coroutines, Retrofit, Junit, Mockito, and Espresso. <br>
+<code>Functionality</code>: The application allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars is located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. <br>
+<code>Architecture/design</code>: MVVM architecture.
 
-> <code>Job</code>: Senior developer for Uruguayan government <br>
+> <code>Role</code>: Senior developer for Uruguayan government <br>
 <code>Technical knowledge</code>: Java, Postgres, Json schema, Velocity, Jersey, Swagger and Maven. <br>
 <code>Description</code>: The ACCE project provides access to information on purchases and contracts of the government.
 
-> <code>Job</code>: Android developer for Coca-Cola FEMSA <br>
+> <code>Role</code>: Android developer for Coca-Cola FEMSA <br>
 <code>Technical knowledge</code>: android, firebase, java, SQLite, volley. <br>
 <code>Description</code>: Development of Android application for Coca-Cola FEMSA whose objective is to provide a tool to
 create motivation strategies such as campaigns and training which are obtained through this.
@@ -58,7 +62,7 @@ create motivation strategies such as campaigns and training which are obtained t
 <p> <strong>Paypont Company</strong> <code>December 2018 – March 2020 </code> <br> 
   Freelance Developer <code>Brisbane/Australia</code></p> 
 
-> <code>Job</code>: Developer Admin Portal <br>
+> <code>Role</code>: Developer Admin Portal <br>
 <code>Technical knowledge</code>: Kotlin, Css, Html, Freemarker, Spring framework and Sql server. <br>
 <code>Description</code>: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
 Developer
@@ -66,12 +70,12 @@ Developer
 <p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia April 2015 – February 2017</code> <br> 
   Developer <code>Medellín/Colombia</code></p> 
 
-> <code>Job</code>: Developer architect for ARUS <br>
+> <code>Role</code>: Developer architect for ARUS <br>
 <code>Technical knowledge</code>: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle.  <br>
 <code>Description</code>: Development of the ARUS website, which provides all individuals and companies to liquidate and pay
 their contributions to the system of the social protection.
 
-> <code>Job</code>: Developer architect for Konfirma <br> 
+> <code>Role</code>: Developer architect for Konfirma <br> 
 <code>Technical knowledge</code>: AngularJS, Bower, Bootstrap, Css, Html, Gradle, Grunt, Java, RESTful Web Services,
 MongoDB, Yeoman with continuous deployment in Amazon. <br> 
 <code>Description</code>: Develop Konfirma website, a Colombian company that provides supplier management and risk
@@ -80,14 +84,14 @@ verification services to support decision making.
 <p> <strong>Indra Company</strong> <code>Pereira/Colombia July 2013 - December 2014</code> <br> 
   Developer <code>Pereira/Colombia</code></p> 
 
-> <code>Job</code>: Software engineer <br>
+> <code>Role</code>: Software engineer <br>
 <code>Technical knowledge</code>: CSS, HTML, Java, JavaScript, JSF, Maven, Oracle. <br> 
 <code>Description</code>: Develop Aviva website.
 
 <p> <strong>Integra Company</strong> <code>June 2012 – June 2013</code> <br> 
   Developer - Internship <code>Pereira/Colombia</code></p> 
 
-> <code>Job</code>: Software engineer <br>
+> <code>Role</code>: Software engineer <br>
 <code>Technical knowledge</code>: jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite. <br>
 <code>Description</code>: Development of the website for Integra, a Colombian company that monitors and controls the
 operation of public transport in the city in real time.

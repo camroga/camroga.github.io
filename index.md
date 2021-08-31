@@ -47,11 +47,11 @@
 > <code>Role</code>: Senior Android Developer. <br>
 <code>Duration</code>: I worked for 8 months making the HNSV mobile application. <br>
 <code>Technical knowledge</code>: Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location and Jetpack (LiveData, ViewModel, data bindings, Room, among others), Coroutines, Retrofit, Junit, Mockito, and Espresso. <br>
-<code>Functionality</code>: The application allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars is located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. <br>
+<code>Functionality</code>: The application allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. <br>
 <code>Architecture/design</code>: MVVM architecture.
 
-> <code>Role</code>: Senior developer for Uruguayan government <br>
-<code>Technical knowledge</code>: Java, Postgres, Json schema, Velocity, Jersey, Swagger and Maven. <br>
+> <code>Role</code>: Senior Developer for the Uruguayan government <br>
+<code>Technical knowledge</code>: Java, Postgres, JSON schema, Velocity, Jersey, Swagger, and Maven. <br>
 <code>Description</code>: The ACCE project provides access to information on purchases and contracts of the government.
 
 > <code>Role</code>: Android developer for Coca-Cola FEMSA <br>
@@ -71,15 +71,12 @@ Developer
   Developer <code>Medellín/Colombia</code></p> 
 
 > <code>Role</code>: Developer architect for ARUS <br>
-<code>Technical knowledge</code>: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle.  <br>
-<code>Description</code>: Development of the ARUS website, which provides all individuals and companies to liquidate and pay
-their contributions to the system of the social protection.
+<code>Technical knowledge</code>: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle. <br>
+<code>Description</code>: Development of the ARUS website, which provides all individuals and companies to liquidate and pay their contributions to the system of social protection.
 
 > <code>Role</code>: Developer architect for Konfirma <br> 
-<code>Technical knowledge</code>: AngularJS, Bower, Bootstrap, Css, Html, Gradle, Grunt, Java, RESTful Web Services,
-MongoDB, Yeoman with continuous deployment in Amazon. <br> 
-<code>Description</code>: Develop Konfirma website, a Colombian company that provides supplier management and risk
-verification services to support decision making.
+<code>Technical knowledge</code>: AngularJS, Bower, Bootstrap, CSS, Html, Gradle, Grunt, Java, RESTful Web Services, MongoDB, Yeoman with continuous deployment in Amazon. <br> 
+<code>Description</code>: Develop the Konfirma website, a Colombian company that provides supplier management and risk verification services to support decision-making.
 
 <p> <strong>Indra Company</strong> <code>Pereira/Colombia July 2013 - December 2014</code> <br> 
   Developer <code>Pereira/Colombia</code></p> 

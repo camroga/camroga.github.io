@@ -67,7 +67,7 @@ create motivation strategies such as campaigns and training which are obtained t
 <code>Description</code>: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
 Developer
 
-<p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia April 2015 – February 2017</code> <br> 
+<p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia January 2015 – February 2017</code> <br> 
   Developer <code>Medellín/Colombia</code></p> 
 
 > <code>Role</code>: Developer architect for ARUS <br>

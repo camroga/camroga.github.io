@@ -30,7 +30,16 @@
 
 ## Professional Experience
 
-<p> <strong>Pyxis Company</strong> <code>March 2017 – Present</code> <br> 
+<p> <strong>Cornershop by Uber</strong> <code>September 2021 – Present</code> <br> 
+  Developer <code>Pereira/Colombia</code></p>
+  
+> <code>Role</code>: Android developer <br>
+<code>Duration</code>: Around 3 months working in Cornershop for Shoppers App <br>
+<code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Retrofit, MockK, and Espresso. <br>
+<code>Functionality</code>: Allows buyers to pick and deliver the products requested by the customer for a store.
+
+
+<p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 
   Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
 > <code>Role</code>: Flutter developer internal project. <br>
@@ -111,6 +120,7 @@ operation of public transport in the city in real time.
 ## Certifications
 
 <ul>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/P83G2UXZQPK2" target='_blank'>Neural Networks and Deep Learning – Coursera Course Certificate 2021</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3" target='_blank'>Kotlin for java developers – Coursera Course Certificate 2021</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/PWZDQCTZD4NS?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target='_blank'>Matrix Algebra for Engineers – Coursera Course Certificate 2020</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/VX4KHX8GCN7X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target='_blank'>Parallel, Concurrent, and Distributed Programming in Java – Coursera Course Certificate 2020</a></li>
@@ -124,6 +134,7 @@ operation of public transport in the city in real time.
 ## Play Store
 
 <ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa" target='_blank'>Amigo Femsa</a></li>

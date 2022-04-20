@@ -18,14 +18,14 @@
 
 ## About me
 
-<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies in order to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching optimization problems as a proposal for the master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching optimization problems as a proposal for the master's thesis. </p>
 
 ## TECHNICAL SKILLS
 
 <ul>
-  <li><code>Programming Language</code>: Android, Java, Kotlin, Flutter, Haskell, JavaScript, Python.</li>
+  <li><code>Programming Language</code>: Kotlin, Flutter, Haskell, Java, JavaScript, and Python</li>
   <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, SQLite.</li>
-  <li><code>Others</code>: AngularJS, Gradle, Maven and GIT.</li>
+  <li><code>Others</code>: AngularJS, Gradle, Maven, and GIT.</li>
 </ul>
 
 ## Professional Experience
@@ -36,7 +36,7 @@
 > <code>Role</code>: Android developer <br>
 <code>Duration</code>: Around 3 months working in Cornershop for Shoppers App <br>
 <code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Retrofit, MockK, and Espresso. <br>
-<code>Functionality</code>: Allows buyers to pick and deliver the products requested by the customer for a store.
+<code>Functionality</code>: Cornershop is a convenient website and app, available for Android and iOS. It allows you to do grocery shopping from multiple stores at once.
 
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 

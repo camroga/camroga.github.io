@@ -7,7 +7,7 @@
 <div>
   <p align="center">
     <a href="https://stackoverflow.com/users/11279246/camroga" target='_blank'>
-      <img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="32px" height="32px" /></a>
+      <i class="fa-brands fa-stack-overflow"></i></a>
     <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/" target='_blank'>
       <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" /></a>
     <a href="https://github.com/camroga/" target='_blank'>

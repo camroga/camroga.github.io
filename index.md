@@ -7,11 +7,11 @@
 <div>
   <p align="center">
     <a href="https://stackoverflow.com/users/11279246/camroga" target='_blank'>
-      <i class="fa-brands fa-stack-overflow"></i></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="32px" height="32px" /></a>
     <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/" target='_blank'>
-      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32px" height="32px" /></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px" height="32px" /></a>
     <a href="https://github.com/camroga/" target='_blank'>
-      <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="32px" height="32px" />
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="32px" height="32px" />
     </a> 
   </p>
 </div>

@@ -137,6 +137,7 @@ operation of public transport in the city in real time.
 ## Play Store
 
 <ul>
+  <li><a href="https://play.google.com/store/search?q=uber%20eats&c=apps" target='_blank'>Uber Eats</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>

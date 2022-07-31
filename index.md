@@ -33,12 +33,12 @@
 <p> <strong>Uber Company</strong> <code>September 2021 – Present</code> <br> 
   Developer <code>Pereira/Colombia</code></p>
   
-> <code>Role</code>: Android developer at Uber Eats
-<code>Technical knowledge</code>: Android, Kotlin, RXJava, Motif, and RIBs.
+> <code>Role</code>: Android developer at Uber Eats<br>
+<code>Technical knowledge</code>: Android, Kotlin, RXJava, Motif, and RIBs.<br>
 <code>Functionality</code>: Uber Eats is an online food ordering and delivery platform, Users can read menus, reviews and
-ratings, order, and pay for food from participating restaurants using an application on the iOS or Android platforms.  
+ratings, order, and pay for food from participating restaurants using an application on the iOS or Android platforms.<br>
   
-> <code>Role</code>: Android developer <br>
+> <code>Role</code>: Android developer at Cornershop<br>
 <code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Retrofit, MockK, and Espresso. <br>
 <code>Functionality</code>: Cornershop is a convenient website and app, available for Android and iOS. It allows you to do grocery shopping from multiple stores at once.
 

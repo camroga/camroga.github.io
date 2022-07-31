@@ -141,5 +141,5 @@ operation of public transport in the city in real time.
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa" target='_blank'>Amigo Femsa</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.p4h" target='_blank'>Kime</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.kime" target='_blank'>Kime</a></li>
 </ul>

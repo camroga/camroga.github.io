@@ -18,26 +18,29 @@
 
 ## About me
 
-<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, in machine learning problems as well. I am currently researching optimization problems as a proposal for the master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, on machine learning problems as well. I am currently researching optimization problems as a proposal for my master's thesis. </p>
 
 ## TECHNICAL SKILLS
 
 <ul>
   <li><code>Programming Language</code>: Kotlin, Flutter, Haskell, Java, JavaScript, and Python</li>
   <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, SQLite.</li>
-  <li><code>Others</code>: AngularJS, Gradle, Maven, and GIT.</li>
+  <li><code>Others</code>: Android, AngularJS, Gradle, Maven, and GIT.</li>
 </ul>
 
 ## Professional Experience
 
-<p> <strong>Cornershop by Uber</strong> <code>September 2021 – Present</code> <br> 
+<p> <strong>Uber Company</strong> <code>September 2021 – Present</code> <br> 
   Developer <code>Pereira/Colombia</code></p>
   
+> <code>Role</code>: Android developer at Uber Eats
+<code>Technical knowledge</code>: Android, Kotlin, RXJava, Motif, and RIBs.
+<code>Functionality</code>: Uber Eats is an online food ordering and delivery platform, Users can read menus, reviews and
+ratings, order, and pay for food from participating restaurants using an application on the iOS or Android platforms.  
+  
 > <code>Role</code>: Android developer <br>
-<code>Duration</code>: Around 3 months working in Cornershop for Shoppers App <br>
 <code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Retrofit, MockK, and Espresso. <br>
 <code>Functionality</code>: Cornershop is a convenient website and app, available for Android and iOS. It allows you to do grocery shopping from multiple stores at once.
-
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 
   Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 

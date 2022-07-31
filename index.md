@@ -107,7 +107,7 @@ operation of public transport in the city in real time.
 
 ## Education
 
-- <p><b>Universidad EAFIT Colombia </b> Promotion: July 2021 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
+- <p><b>Universidad EAFIT Colombia </b> Promotion: September 2022 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
 
 - <p><b>The Technological University of Pereira Colombia</b>  Promotion: 2013 <br> <i>Systems and Computing Engineer Degree</i></p>
 

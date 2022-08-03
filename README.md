@@ -2,7 +2,7 @@
 
 My résumé using Github template:
 
-  ![cv](https://camroga.github.io/)
+  [cv](https://camroga.github.io/)
 
 ## License
 

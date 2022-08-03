@@ -6,13 +6,16 @@
 
 <div>
   <p align="center">
+    <a href="https://www.hackerrank.com/camroga" target='_blank'>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/440px-HackerRank_Icon-1000px.png" width="32px" height="32px" />
+    </a> 
     <a href="https://stackoverflow.com/users/11279246/camroga" target='_blank'>
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="32px" height="32px" /></a>
     <a href="https://www.linkedin.com/in/camilo-rodriguez-garzon/" target='_blank'>
       <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px" height="32px" /></a>
     <a href="https://github.com/camroga/" target='_blank'>
       <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="32px" height="32px" />
-    </a> 
+    </a>
   </p>
 </div>
 

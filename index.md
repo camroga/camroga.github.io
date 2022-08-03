@@ -37,8 +37,7 @@
 An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, and RIBs, Mockito).<br>
   
 > <code>Android developer - Cornershop</code><br>
-An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, and
-Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br>
+An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br>
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 
   <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
@@ -96,7 +95,7 @@ It is a website that allows insurance, wealth and retirement business (CSS, HTML
   Developer - Internship <code>Pereira/Colombia</code></p>
 
 > <code>Software engineer</code><br>
-It is a website website that monitors and controls the operation of public transport in the city in real-time. (jQuery, CSS, JavaScript,
+It is a website that monitors and controls the operation of public transport in the city in real-time. (jQuery, CSS, JavaScript,
 PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
 
 ## Education

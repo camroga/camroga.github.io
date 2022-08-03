@@ -18,92 +18,86 @@
 
 ## About me
 
-<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, on machine learning problems as well. I am currently researching optimization problems as a proposal for my master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, on machine learning problems as well. I am currently resear ching optimization problems as a proposal for my master's thesis. </p>
 
 ## TECHNICAL SKILLS
 
 <ul>
-  <li><code>Programming Language</code>: Kotlin, Flutter, Haskell, Java, JavaScript, and Python</li>
-  <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, SQLite.</li>
-  <li><code>Others</code>: Android, AngularJS, Gradle, Maven, and GIT.</li>
+  <li><code>Programming Language</code>: Kotlin, Flutter, Haskell, Java, and Python.</li>
+  <li><code>Data base</code>: MongoDB, Oracle, PostgreSQL, and SQLite (Room).</li>
+  <li><code>Others</code>: Bash, Gradle, Maven, Fastlane, and GIT.</li>
 </ul>
 
 ## Professional Experience
 
-<p> <strong>Uber Company</strong> <code>September 2021 – Present</code> <br> 
-  Developer <code>Pereira/Colombia</code></p>
+<p> <strong>Uber</strong> <code>September 2021 – Present</code> <br> 
+  <code>Pereira/Colombia</code></p>
   
-> <code>Role</code>: Android developer at Uber Eats<br>
-<code>Technical knowledge</code>: Android, Kotlin, RXJava, Motif, and RIBs.<br>
-<code>Functionality</code>: Uber Eats is an online food ordering and delivery platform, Users can read menus, reviews and
-ratings, order, and pay for food from participating restaurants using an application on the iOS or Android platforms.<br>
+> <code>Android developer - Uber Eats</code><br>
+An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, and RIBs, Mockito).<br>
   
-> <code>Role</code>: Android developer at Cornershop<br>
-<code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Retrofit, MockK, and Espresso. <br>
-<code>Functionality</code>: Cornershop is a convenient website and app, available for Android and iOS. It allows you to do grocery shopping from multiple stores at once.
+> <code>Android developer - Cornershop</code><br>
+An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, and
+Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br>
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 
-  Developer <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
+  <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
-> <code>Role</code>: Flutter developer internal project. <br>
-<code>Duration</code>: I worked for 6 months making the Kime app. <br>
-<code>Technical knowledge</code>: Flutter, Dart and Firebase. <br>
-<code>Functionality</code>: The app is logged in using Hotmail 365. This has four functionalities that are publishing activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims.
+> <code>Flutter developer - Internal project</code><br>
+A mobile application that provides a channel to communicate employees with human resources. It has four functionalities: publishing
+activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims . (Flutter, Dart, Room, and
+Firebase).<br>
 
-> <code>Role</code>: Senior Android Developer for Oca <br>
-<code>Duration</code>: I have worked for the last 2 years making the Oca mobile application. <br>
-<code>Technical knowledge</code>: Android, Kotlin, Gradle, Firebase (push notifications), and Jetpack (LiveData, ViewModel, data bindings among others), Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso. <br>
-<code>Architecture/design</code>: The project was upgraded using MVVM architecture and divided into five modules. three related to the main services of the app and two more for commons components of the views and a core module that manages the data source. <br>
-<code>Functionality</code>: The Oca app permits the customers to use many services of the application such as Recharge mobile phone, Pay taxi, Show Movements, Request a loan among others.
+> <code>Senior Android Developer - Oca</code><br>
+A fintech android application that allows seeing movements in real-time, blocks cards and recharges your balance on your phone
+among others. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso).<br>
 
-> <code>Role</code>: Senior Android Developer. <br>
-<code>Duration</code>: I worked for 8 months making the HNSV mobile application. <br>
-<code>Technical knowledge</code>: Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location and Jetpack (LiveData, ViewModel, data bindings, Room, among others), Coroutines, Retrofit, Junit, Mockito, and Espresso. <br>
-<code>Functionality</code>: The application allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. <br>
-<code>Architecture/design</code>: MVVM architecture.
+> <code>Senior Android Developer – Internal project</code><br>
+An Android application that allows the inspector role to access a set of questions after validating that the person is in the place where
+a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user mu st
+take photos that are part of the evidence. (Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location, Jetpack , and Dagger,
+Coroutines, Retrofit, Room, Junit, Mockito, and Espresso).<br>
 
-> <code>Role</code>: Senior Developer for the Uruguayan government <br>
-<code>Technical knowledge</code>: Java, Postgres, JSON schema, Velocity, Jersey, Swagger, and Maven. <br>
-<code>Description</code>: The ACCE project provides access to information on purchases and contracts of the government.
+> <code>Senior Backend Developer - Uruguayan government</code><br>
+The ACCE project provides access to information on purchases and contracts of the government. (Java, Postgres, JSON schema,
+Velocity, Jersey, Swagger, and Maven).<br>
 
-> <code>Role</code>: Android developer for Coca-Cola FEMSA <br>
-<code>Technical knowledge</code>: android, firebase, java, SQLite, volley. <br>
-<code>Description</code>: Development of Android application for Coca-Cola FEMSA whose objective is to provide a tool to
-create motivation strategies such as campaigns and training which are obtained through this.
+> <code>Android developer - Coca-Cola FEMSA</code><br>
+An Android application whose objective is to provide a tool to create motivation strategies such as campaigns and training wh ich are
+obtained through this. (Android, Firebase, Java, SQLite, Volley).<br>
 
 <p> <strong>Paypont Company</strong> <code>December 2018 – March 2020 </code> <br> 
-  Freelance Developer <code>Brisbane/Australia</code></p> 
+  Freelance Developer <code>Brisbane/Australia</code></p>
 
-> <code>Role</code>: Developer Admin Portal <br>
-<code>Technical knowledge</code>: Kotlin, Css, Html, Freemarker, Spring framework and Sql server. <br>
-<code>Description</code>: The admin portal website is used by customers to configure machines, clients, customer loyalty, etc.
-Developer
+> <code>Freelance Fullstack Developer - Admin portal</code><br>
+It is a web application that allows customers to configure the laundry machines, admin clients, manage customer loyalty, et c. (Kotlin,
+CSS, Html, Freemarker, Spring framework and SQL server).<br>
+
 
 <p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia January 2015 – February 2017</code> <br> 
-  Developer <code>Medellín/Colombia</code></p> 
+  Developer <code>Medellín/Colombia</code></p>
 
-> <code>Role</code>: Developer architect for ARUS <br>
-<code>Technical knowledge</code>: AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle. <br>
-<code>Description</code>: Development of the ARUS website, which provides all individuals and companies to liquidate and pay their contributions to the system of social protection.
+> <code>Developer architect - ARUS</code><br>
+It is a website, which provides all individuals and companies to liquidate and pay their contributions to the system of social protection.
+(AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle ).<br>
 
-> <code>Role</code>: Developer architect for Konfirma <br> 
-<code>Technical knowledge</code>: AngularJS, Bower, Bootstrap, CSS, Html, Gradle, Grunt, Java, RESTful Web Services, MongoDB, Yeoman with continuous deployment in Amazon. <br> 
-<code>Description</code>: Develop the Konfirma website, a Colombian company that provides supplier management and risk verification services to support decision-making.
+
+> <code>Developer architect - Konfirma</code><br>
+It is a website that provides supplier management and risk verification services to s upport decision-making. (AngularJS, Bower,
+Bootstrap, CSS, Html, Gradle, Grunt, Java, MongoDB, RESTful Web Services, Yeoman with continuous deployment in Amazon).<br>
 
 <p> <strong>Indra Company</strong> <code>Pereira/Colombia July 2013 - December 2014</code> <br> 
-  Developer <code>Pereira/Colombia</code></p> 
+  Developer <code>Pereira/Colombia</code></p>
 
-> <code>Role</code>: Software engineer <br>
-<code>Technical knowledge</code>: CSS, HTML, Java, JavaScript, JSF, Maven, Oracle. <br> 
-<code>Description</code>: Develop Aviva website.
+> <code>Software engineer - Aviva</code><br>
+It is a website that allows insurance, wealth and retirement business (CSS, HTML, Java, JavaScript, JSF, Maven, Oracle).<br>
 
 <p> <strong>Integra Company</strong> <code>June 2012 – June 2013</code> <br> 
-  Developer - Internship <code>Pereira/Colombia</code></p> 
+  Developer - Internship <code>Pereira/Colombia</code></p>
 
-> <code>Role</code>: Software engineer <br>
-<code>Technical knowledge</code>: jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite. <br>
-<code>Description</code>: Development of the website for Integra, a Colombian company that monitors and controls the
-operation of public transport in the city in real time.
+> <code>Software engineer</code><br>
+It is a website website that monitors and controls the operation of public transport in the city in real-time. (jQuery, CSS, JavaScript,
+PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
 
 ## Education
 
@@ -141,6 +135,5 @@ operation of public transport in the city in real time.
   <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.kof.amigofemsa" target='_blank'>Amigo Femsa</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.kime" target='_blank'>Kime</a></li>
 </ul>

@@ -46,47 +46,35 @@ An Android application that allows you to do grocery shopping from multiple stor
   <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
 > <code>Flutter developer - Internal project</code><br>
-A mobile application that provides a channel to communicate employees with human resources. It has four functionalities: publishing
-activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims . (Flutter, Dart, Room, and
-Firebase).<br>
+A mobile application that provides a channel to communicate employees with human resources. It has four functionalities: publishing activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims. (Flutter, Dart, Room, and Firebase).<br>
 
 > <code>Senior Android Developer - Oca</code><br>
-A fintech android application that allows seeing movements in real-time, blocks cards and recharges your balance on your phone
-among others. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso).<br>
+A fintech android application that allows seeing movements in real-time, blocks cards and recharges your balance on your phone among others. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso).<br>
 
 > <code>Senior Android Developer – Internal project</code><br>
-An Android application that allows the inspector role to access a set of questions after validating that the person is in the place where
-a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user mu st
-take photos that are part of the evidence. (Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location, Jetpack , and Dagger,
-Coroutines, Retrofit, Room, Junit, Mockito, and Espresso).<br>
+An Android application that allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. (Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location, Jetpack , and Dagger, Coroutines, Retrofit, Room, Junit, Mockito, and Espresso).<br>
 
 > <code>Senior Backend Developer - Uruguayan government</code><br>
-The ACCE project provides access to information on purchases and contracts of the government. (Java, Postgres, JSON schema,
-Velocity, Jersey, Swagger, and Maven).<br>
+The ACCE project provides access to information on purchases and contracts of the government. (Java, Postgres, JSON schema, Velocity, Jersey, Swagger, and Maven).<br>
 
 > <code>Android developer - Coca-Cola FEMSA</code><br>
-An Android application whose objective is to provide a tool to create motivation strategies such as campaigns and training wh ich are
-obtained through this. (Android, Firebase, Java, SQLite, Volley).<br>
+An Android application whose objective is to provide a tool to create motivation strategies such as campaigns and training which are obtained through this. (Android, Firebase, Java, SQLite, Volley).<br>
 
 <p> <strong>Paypont Company</strong> <code>December 2018 – March 2020 </code> <br> 
   Freelance Developer <code>Brisbane/Australia</code></p>
 
 > <code>Freelance Fullstack Developer - Admin portal</code><br>
-It is a web application that allows customers to configure the laundry machines, admin clients, manage customer loyalty, et c. (Kotlin,
-CSS, Html, Freemarker, Spring framework and SQL server).<br>
+It is a web application that allows customers to configure the laundry machines, admin clients, manage customer loyalty, etc. (Kotlin, CSS, Html, Freemarker, Spring framework and SQL server).<br>
 
 
 <p> <strong>Company Ceiba Software House</strong> <code>Medellín/Colombia January 2015 – February 2017</code> <br> 
   Developer <code>Medellín/Colombia</code></p>
 
 > <code>Developer architect - ARUS</code><br>
-It is a website, which provides all individuals and companies to liquidate and pay their contributions to the system of social protection.
-(AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle ).<br>
-
+It is a website, which provides all individuals and companies to liquidate and pay their contributions to the system of social protection. (AngularJS, Bootstrap, Bower, CSS, HTML, Java, JSF, RESTful Web Services, Oracle ).<br>
 
 > <code>Developer architect - Konfirma</code><br>
-It is a website that provides supplier management and risk verification services to s upport decision-making. (AngularJS, Bower,
-Bootstrap, CSS, Html, Gradle, Grunt, Java, MongoDB, RESTful Web Services, Yeoman with continuous deployment in Amazon).<br>
+It is a website that provides supplier management and risk verification services to s upport decision-making. (AngularJS, Bower, Bootstrap, CSS, Html, Gradle, Grunt, Java, MongoDB, RESTful Web Services, Yeoman with continuous deployment in Amazon).<br>
 
 <p> <strong>Indra Company</strong> <code>Pereira/Colombia July 2013 - December 2014</code> <br> 
   Developer <code>Pereira/Colombia</code></p>
@@ -98,18 +86,15 @@ It is a website that allows insurance, wealth and retirement business (CSS, HTML
   Developer - Internship <code>Pereira/Colombia</code></p>
 
 > <code>Software engineer</code><br>
-It is a website that monitors and controls the operation of public transport in the city in real-time. (jQuery, CSS, JavaScript,
-PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
+It is a website that monitors and controls the operation of public transport in the city in real-time. (jQuery, CSS, JavaScript, PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
 
 ## Education
 
 - <p><b>Universidad EAFIT Colombia </b> Promotion: September 2022 (expected) <br> <i>Master’s in Applied Mathematics</i></p>                                           
-
 - <p><b>The Technological University of Pereira Colombia</b>  Promotion: 2013 <br> <i>Systems and Computing Engineer Degree</i></p>
 
 - <p><b>The University of Queensland</b> Promotion: February 2019 <br> <i>Course, General English</i></p>
                                            
-
 ## Accomplishments
 #### Languages
 
@@ -143,7 +128,7 @@ PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
 ## Side Projects
 
 <ul>
-  <li><p><a href="https://camroga.github.io/TimeTabling/" target='_blank'><strong>Timetabling problem</strong></a> <code>January 2020 – December 2021</code> <br>Timetabling university problems is my thesis for the master's degree in applied mathematics that I am finishing.</p> </li>
+  <li><p><a href="https://camroga.github.io/TimeTabling/" target='_blank'>Timetabling problem</a> <code>January 2020 – December 2021</code> <br>Timetabling university problems is my thesis for the master's degree in applied mathematics that I am finishing.</p> </li>
 </ul>
 
 

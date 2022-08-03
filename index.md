@@ -139,3 +139,12 @@ PHP, PostgreSQL, PLSQL, Java SE, Android, SQLite).<br>
   <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.kime" target='_blank'>Kime</a></li>
 </ul>
+
+## Side Projects
+
+<ul>
+  <li><p><a href="https://camroga.github.io/TimeTabling/" target='_blank'><strong>Timetabling problem</strong></a> <code>January 2020 – December 2021</code> <br>Timetabling university problems is my thesis for the master's degree in applied mathematics that I am finishing.</p> </li>
+</ul>
+
+
+

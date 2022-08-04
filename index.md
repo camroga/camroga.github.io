@@ -31,6 +31,16 @@
   <li><code>Others</code>: Bash, Gradle, Maven, Fastlane, and GIT.</li>
 </ul>
 
+## Play Store
+
+<ul>
+  <li><a href="https://play.google.com/store/search?q=uber%20eats&c=apps" target='_blank'>Uber Eats</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.kime" target='_blank'>Kime</a></li>
+</ul>
+
 ## Professional Experience
 
 <p> <strong>Uber</strong> <code>September 2021 – Present</code> <br> 
@@ -98,7 +108,7 @@ It is a website that monitors and controls the operation of public transport in 
 ## Accomplishments
 #### Languages
 
-- **English**: intermediate 
+- **English**: professional working proficiency
 - **Spanish**: native
 
 ## Certifications
@@ -113,16 +123,6 @@ It is a website that monitors and controls the operation of public transport in 
   <li><a href="https://www.coursera.org/account/accomplishments/verify/GU7W89GTGNNL" target='_blank'>Algorithmic Toolbox - License GU7W89GTGNNL - Coursera Course Certificate 2016</a></li>
   <li>Scrum Master - License 213003-07 – SEONTI 2015 – 2018</li>
   <li>Scrum Developer - License 000447778 – Scrum Alliance 2015 – ago. de 2017</li>
-</ul> 
-
-## Play Store
-
-<ul>
-  <li><a href="https://play.google.com/store/search?q=uber%20eats&c=apps" target='_blank'>Uber Eats</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=uy.com.oca.ocatarjetas" target='_blank'>Oca</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.pyxis.kime" target='_blank'>Kime</a></li>
 </ul>
 
 ## Side Projects

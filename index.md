@@ -21,7 +21,7 @@
 
 ## About me
 
-<p align="justify"> I have been working as a software developer for 9 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how on agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android and, on machine learning problems as well. I am currently resear ching optimization problems as a proposal for my master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 10 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how in agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android, and machine learning problems as well. I am currently resear ching optimization problems as a proposal for my master's thesis. </p>
 
 ## TECHNICAL SKILLS
 
@@ -47,7 +47,7 @@
   <code>Pereira/Colombia</code></p>
   
 > <code>Android developer - Uber Eats</code><br>
-An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, and RIBs, Mockito).<br>
+An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, RIBs, and Mockito).<br>
   
 > <code>Android developer - Cornershop</code><br>
 An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br>
@@ -56,13 +56,13 @@ An Android application that allows you to do grocery shopping from multiple stor
   <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 
 
 > <code>Flutter developer - Internal project</code><br>
-A mobile application that provides a channel to communicate employees with human resources. It has four functionalities: publishing activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims. (Flutter, Dart, Room, and Firebase).<br>
+A mobile application that provides a channel to communicate with employees with human resources. It has four functionalities: publishing activities, sharing kudos, conducting surveys, and a module for complaints, suggestions, and claims. (Flutter, Dart, Room, and Firebase).<br>
 
 > <code>Senior Android Developer - Oca</code><br>
 A fintech android application that allows seeing movements in real-time, blocks cards and recharges your balance on your phone among others. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Itau Retrofit develop, Junit, Mockito, and Espresso).<br>
 
 > <code>Senior Android Developer – Internal project</code><br>
-An Android application that allows the inspector role to access a set of questions after validating that the person is in the place where a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. (Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location, Jetpack , and Dagger, Coroutines, Retrofit, Room, Junit, Mockito, and Espresso).<br>
+An Android application that allows the inspector role to access a set of questions after validating that the person is in a place where a lot of cars are located. These questions are of a single answer or multiple answers. In addition to this, in some cases, the user must take photos that are part of the evidence. (Android, Kotlin, Gradle, Camera 2, Camera X as an upgrade, Location, Jetpack, and Dagger, Coroutines, Retrofit, Room, Junit, Mockito, and Espresso).<br>
 
 > <code>Senior Backend Developer - Uruguayan government</code><br>
 The ACCE project provides access to information on purchases and contracts of the government. (Java, Postgres, JSON schema, Velocity, Jersey, Swagger, and Maven).<br>

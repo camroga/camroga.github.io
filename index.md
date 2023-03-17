@@ -1,7 +1,7 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
 
-<p align="center"><a href='https://wa.me/+573174310908' target='_blank'>+971 058 5790431</a><br>
-  <a href="mailto:cam_rod@hotmail.com?">cam_rod@hotmail.com</a></p>
+<p align="center"><a href='https://wa.me/+9710585790431' target='_blank'>+971 058 5790431</a><br>
+  <a href="mailto:carodriguezga@gmail.com?">carodriguezga@gmail.com</a></p>
   
 
 <div>
@@ -34,6 +34,7 @@
 ## Play Store
 
 <ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.talabat" target='_blank'>Talabat</a></li>
   <li><a href="https://play.google.com/store/search?q=uber%20eats&c=apps" target='_blank'>Uber Eats</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.cornershopapp.shopper.android" target='_blank'>Cornershop for Shoppers</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.buildreams.scrumpoker" target='_blank'>Scrum Poker</a></li>
@@ -43,7 +44,13 @@
 
 ## Professional Experience
 
-<p> <strong>Uber</strong> <code>September 2021 – Present</code> <br> 
+<p> <strong>Talabat</strong> <code>December 2022 – Present</code> <br> 
+  <code>Dubai/UAE</code></p>
+  
+> <code>Android/Flutter developer - Talabat</code><br>
+Talabat is an online food ordering application. (Flutter, Dart, Bloc, Kotlin, Mocktail, and Mockito).<br>
+
+<p> <strong>Uber</strong> <code>September 2021 – November 2022</code> <br> 
   <code>Pereira/Colombia</code></p>
   
 > <code>Android developer - Uber Eats</code><br>

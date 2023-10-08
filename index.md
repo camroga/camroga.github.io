@@ -1,6 +1,6 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
 
-<p align="center"><a href='https://wa.me/+9710585790431' target='_blank'>+971 058 5790431</a><br>
+<p align="center"><a href='https://wa.me/+573137474923' target='_blank'>+57 3137474923</a><br>
   <a href="mailto:carodriguezga@gmail.com?">carodriguezga@gmail.com</a></p>
   
 
@@ -21,7 +21,7 @@
 
 ## About me
 
-<p align="justify"> I have been working as a software developer for 10 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how in agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android, and machine learning problems as well. I researched in optimization area as a proposal for my master's thesis. </p>
+<p align="justify"> I have been working as a software developer for 10 years up to date. I have vast experience designing enterprise applications based on object-oriented programming. Furthermore, I have the know-how in agile methodologies to create successful projects. I also enjoy working on the development of mobile applications on Android (Kotlin, Flutter), and machine learning problems as well. I researched optimization problems as a proposal for my master's thesis using Java as a programming language, and Gurobi as mathematical optimization software. </p>
 
 ## TECHNICAL SKILLS
 

@@ -1,6 +1,6 @@
 <h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n</p></h1>
 
-<p align="center"><a href='https://wa.me/+573137474923' target='_blank'>+57 3137474923</a><br>
+<p align="center"><a href='https://wa.me/+9710585790431' target='_blank'>+971 0585790431</a><br>
   <a href="mailto:carodriguezga@gmail.com?">carodriguezga@gmail.com</a></p>
   
 
@@ -121,6 +121,8 @@ It is a website that monitors and controls the operation of public transport in 
 ## Certifications
 
 <ul>
+  
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/AECTUKWVUYKX" target='_blank'>Create the User Interface with SwiftUI – Coursera Course Certificate 2024</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/P83G2UXZQPK2" target='_blank'>Neural Networks and Deep Learning – Coursera Course Certificate 2021</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/JZ2HH6ZG8PZ3" target='_blank'>Kotlin for java developers – Coursera Course Certificate 2021</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/PWZDQCTZD4NS?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target='_blank'>Matrix Algebra for Engineers – Coursera Course Certificate 2020</a></li>

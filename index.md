@@ -47,17 +47,18 @@
 <p> <strong>Talabat</strong> <code>December 2022 – Present</code> <br> 
   <code>Dubai/UAE</code></p>
   
-> <code>Android/Flutter developer - Talabat</code><br>
-Talabat is an online food ordering application. (Flutter, Dart, Bloc, Kotlin, Mocktail, and Mockito).<br>
-
+> <code>Senior Android/Flutter Engineer<br></code>
+  Talabat is an online food ordering application. (Flutter, Dart, Bloc, Kotlin, Mocktail, and Mockito). <br> <br> Functions: <br><ul><li>Collaborated closely with designers to create visually appealing interfaces that aligned with the brand guidelines.</li><li>Resolved critical issues during system integration phases, ensuring a seamless transition between design iterations.</li><li>Mentored junior developers in Android application development best practices, improving overall team productivity.</li><li>Ensured application stability by rigorously testing various scenarios using unit tests, integration tests, and instrumented tests.<li>Streamlined development process by adopting Agile methodologies and conducting regular stand-ups and sprint planning sessions.</li><li>Collaborated with cross-functional teams to develop innovative features for the Android/Flutter app that increased user engagement.</li><li>Optimize app performance by debugging, refactoring code, and reducing memory usage.</li><li>Developed application using MVI architecture, resulting in a cleaner codebase that is easier to maintain and build upon.</li></ul>
+  
 <p> <strong>Uber</strong> <code>September 2021 – November 2022</code> <br> 
   <code>Pereira/Colombia</code></p>
   
 > <code>Android developer - Uber Eats</code><br>
-An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, RIBs, and Mockito).<br>
+An Android application that allows food ordering and delivery. (Android, Kotlin, RxJava, Motif, RIBs, and Mockito). <br> <br> Functions: <br> <ul><li>Enhanced user experience by implementing seamless navigation and intuitive UI design for Android applications.</li><li>Collaborated with cross-functional teams to develop innovative features for the Android/Flutter app that increased user engagement.</li><li>Optimized app performance by debugging, refactoring code, and reducing memory usage.</li></ul>
   
 > <code>Android developer - Cornershop</code><br>
-An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br>
+An Android application that allows you to do grocery shopping from multiple stores at once. (Android, Kotlin, Gradle, Firebase, Jetpack, Coroutines, Retrofit, Room, MockK, and Espresso).<br> <br> Functions: <br> <ul><li>Developed application using MVVM architecture, resulting in a cleaner codebase that is easier to maintain and build upon.</li><li>Mentored junior developers in Android application development best practices, improving overall team productivity.</li> <li>Integrated APIs for seamless communication between the mobile app and backed system, improving overall functionality.</li> <li>Enhanced user experience with intuitive UI design and seamless navigation features.</li> <li>Optimizing code and implementing efficient algorithms.</li></ul>
+
 
 <p> <strong>Pyxis Company</strong> <code>March 2017 – September 2021</code> <br> 
   <code>Medellín/Colombia - Montevideo/Uruguay</code></p> 

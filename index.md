@@ -47,7 +47,7 @@
 <p> <strong>Talabat</strong> <code>December 2022 – Present</code> <br> 
   <code>Dubai/UAE</code></p>
   
->   <code>Senior Android/Flutter Engineer<br></code>
+<code>Senior Android/Flutter Engineer<br></code>
     Talabat is an online food ordering application. (Flutter, Dart, Bloc, Kotlin, Mocktail, and Mockito). <br> <br> Functions: <br><ul>
       <li>Collaborated closely with designers to create visually appealing interfaces that aligned with the brand guidelines.</li>
       <li>Resolved critical issues during system integration phases, ensuring a seamless transition between design iterations.</li>

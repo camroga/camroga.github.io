@@ -49,16 +49,16 @@
   
 <code>Senior Android/Flutter Engineer<br></code>
     Talabat is an online food ordering application. (Flutter, Dart, Bloc, Kotlin, Mocktail, and Mockito). <br> <br> Functions: <br>
-    <ul>
-      <li>Collaborated closely with designers to create visually appealing interfaces that aligned with the brand guidelines.</li>
-      <li>Resolved critical issues during system integration phases, ensuring a seamless transition between design iterations.</li>
-      <li>Mentored junior developers in Android application development best practices, improving overall team productivity.</li>
-      <li>Ensured application stability by rigorously testing various scenarios using unit tests, integration tests, and instrumented tests.</li>
-      <li>Streamlined development process by adopting Agile methodologies and conducting regular stand-ups and sprint planning sessions.</li>
-      <li>Collaborated with cross-functional teams to develop innovative features for the Android/Flutter app that increased user engagement.</li>
-      <li>Optimize app performance by debugging, refactoring code, and reducing memory usage.</li>
-      <li>Developed application using MVI architecture, resulting in a cleaner codebase that is easier to maintain and build upon.</li>
-    </ul>
+<ul>
+  <li>Collaborated closely with designers to create visually appealing interfaces that aligned with the brand guidelines.</li>
+  <li>Resolved critical issues during system integration phases, ensuring a seamless transition between design iterations.</li>
+  <li>Mentored junior developers in Android application development best practices, improving overall team productivity.</li>
+  <li>Ensured application stability by rigorously testing various scenarios using unit tests, integration tests, and instrumented tests.</li>
+  <li>Streamlined development process by adopting Agile methodologies and conducting regular stand-ups and sprint planning sessions.</li>
+  <li>Collaborated with cross-functional teams to develop innovative features for the Android/Flutter app that increased user engagement.</li>
+  <li>Optimize app performance by debugging, refactoring code, and reducing memory usage.</li>
+  <li>Developed application using MVI architecture, resulting in a cleaner codebase that is easier to maintain and build upon.</li>
+</ul>
   
 <p> <strong>Uber</strong> <code>September 2021 – November 2022</code> <br> 
   <code>Pereira/Colombia</code></p>

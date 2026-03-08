@@ -268,6 +268,39 @@ Feature engineering is critical for improving model performance.
 
 Good features allow machine learning models to capture **important patterns within the data**.
 
+# 11. Reinforcement Learning and Decision Modelling
+
+Reinforcement learning is a machine learning paradigm in which an agent learns to make decisions by interacting with an environment and receiving feedback through rewards.
+
+Unlike supervised learning, reinforcement learning does not rely on labelled data. Instead, the agent learns optimal behaviour through sequential interactions and reward signals.
+
+## Key Concepts
+
+- Agent
+- Environment
+- State
+- Action
+- Reward
+- Policy
+
+The objective is to learn a **policy** that selects actions that maximise long-term cumulative rewards.
+
+## Markov Decision Processes (MDPs)
+
+
+Sequential decision problems can be modelled using **Markov Decision Processes (MDPs)**, defined by:
+
+- **States (S)** – possible configurations of the environment  
+- **Actions (A)** – choices available to the agent  
+- **Transition probabilities (P)** – likelihood of moving between states  
+- **Rewards (R)** – feedback received after actions  
+
+MDPs provide a mathematical framework for modelling and analysing decision-making processes in dynamic systems.
+
+## Learning Outcome
+
+Understanding reinforcement learning enables modelling of **sequential decision-making problems**, where agents must learn strategies that optimise long-term outcomes.
+
 ---
 
 # Programming and Computational Tools

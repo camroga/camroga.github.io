@@ -8,6 +8,7 @@ title: Camilo Rodriguez – Artificial Intelligence
 The information is an intent to summarises the **theoretical concepts, techniques, and computational methods** developed across coursework in artificial intelligence, machine learning, knowledge engineering, natural language processing, computer vision, and data science.
 
 The projects investigated focus on applying **advanced modelling techniques and analytical methods** to complex problems across multiple domains.
+
 ---
 
 ## Core Areas of Knowledge

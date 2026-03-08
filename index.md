@@ -123,7 +123,7 @@ Zipf's Law describes the inverse relationship between a word's frequency and its
 
 ## 4. Representation Learning and Word Embeddings
 
-Text data was represented numerically using vector-based models.
+Text data was represented numerically using vector based models.
 
 ### Core Concepts
 
@@ -136,7 +136,7 @@ Text data was represented numerically using vector-based models.
 - Word2Vec
 - Transformer-based embeddings
 
-These methods encode semantic meaning by representing words as vectors in a high-dimensional space.
+These methods encode semantic meaning by representing words as vectors in a high dimensional space.
 
 ---
 
@@ -160,15 +160,15 @@ Modern NLP models based on transformer architectures were explored.
 ### Training Approach
 
 - Transfer learning
-- Fine-tuning pretrained language models
+- Fine tuning pretrained language models
 
-These models allow contextual understanding of text by learning long-range dependencies within sequences.
+These models allow contextual understanding of text by learning long range dependencies within sequences.
 
 ---
 
 ## 6. Knowledge Engineering and Knowledge Graphs
 
-The coursework explores the representation of structured knowledge using graph-based models.
+The coursework explores the representation of structured knowledge using graph based models.
 
 ### Core Concepts
 
@@ -220,7 +220,7 @@ Machine learning techniques were applied to genomic datasets.
 
 ### Analytical Concepts
 
-- High-dimensional biological data
+- High dimensional biological data
 - Genomic feature analysis
 - Data preprocessing pipelines
 
@@ -236,11 +236,11 @@ This work demonstrates how machine learning can support **biomedical research an
 
 ## 9. Financial Machine Learning
 
-Machine learning methods were applied to financial time-series analysis.
+Machine learning methods were applied to financial time series analysis.
 
 ### Key Concepts
 
-- Time-series modelling
+- Time series modelling
 - Market behaviour analysis
 - Feature engineering for financial indicators
 
@@ -295,11 +295,11 @@ Sequential decision problems can be modelled using **Markov Decision Processes (
 - **Transition probabilities (P)** – likelihood of moving between states  
 - **Rewards (R)** – feedback received after actions  
 
-MDPs provide a mathematical framework for modelling and analysing decision-making processes in dynamic systems.
+MDPs provide a mathematical framework for modelling and analysing decision making processes in dynamic systems.
 
 ### Learning Outcome
 
-Understanding reinforcement learning enables modelling of **sequential decision-making problems**, where agents must learn strategies that optimise long-term outcomes.
+Understanding reinforcement learning enables modelling of **sequential decision making problems**, where agents must learn strategies that optimise long term outcomes.
 
 ---
 
@@ -316,7 +316,7 @@ The coursework required extensive use of scientific computing tools.
 
 - NumPy
 - Pandas
-- Scikit-learn
+- Scikit learn
 - Matplotlib
 - Seaborn
 

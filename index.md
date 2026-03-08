@@ -33,6 +33,7 @@ The coursework applies core machine learning theory and modelling techniques use
 ## Techniques and Concepts
 
 - Supervised learning
+- Unsupervised learning
 - Regression modelling
 - Model generalisation
 - Bias variance tradeoff
@@ -43,7 +44,12 @@ The coursework applies core machine learning theory and modelling techniques use
 
 - Linear Regression
 - Ridge Regression
+- SVM
+- K-means
+- AdaBoost
 - Lasso Regression
+- kNN: k-Nearest Neighbors
+- Decision Trees
 
 ## Optimisation Methods
 

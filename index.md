@@ -11,7 +11,7 @@ The projects focus on applying **advanced modelling techniques and analytical me
 
 ---
 
-# Core Areas of Knowledge
+## Core Areas of Knowledge
 
 The coursework develops knowledge across the following areas:
 
@@ -26,11 +26,11 @@ The coursework develops knowledge across the following areas:
 
 ---
 
-# 1. Machine Learning Foundations
+## 1. Machine Learning Foundations
 
 The coursework applies core machine learning theory and modelling techniques used for predictive analytics.
 
-## Techniques and Concepts
+### Techniques and Concepts
 
 - Supervised learning
 - Unsupervised learning
@@ -40,7 +40,7 @@ The coursework applies core machine learning theory and modelling techniques use
 - Feature selection
 - Model evaluation
 
-## Methods Implemented
+### Methods Implemented
 
 - Linear Regression
 - Ridge Regression
@@ -51,13 +51,13 @@ The coursework applies core machine learning theory and modelling techniques use
 - kNN: k-Nearest Neighbors
 - Decision Trees
 
-## Optimisation Methods
+### Optimisation Methods
 
 - Gradient descent
 - Regularisation techniques
 - Hyperparameter tuning
 
-## Evaluation Techniques
+### Evaluation Techniques
 
 - Training and test set validation
 - Model performance comparison
@@ -65,25 +65,25 @@ The coursework applies core machine learning theory and modelling techniques use
 
 ---
 
-# 2. Deep Learning and Computer Vision
+## 2. Deep Learning and Computer Vision
 
 Deep learning methods were applied to image classification tasks.
 
-## Core Concepts
+### Core Concepts
 
 - Neural network architectures
 - Convolutional neural networks
 - Feature hierarchies in images
 - Transfer learning
 
-## Techniques Used
+### Techniques Used
 
-### Neural Networks
+#### Neural Networks
 - Feedforward neural networks
 - Backpropagation
 - Non-linear activation functions
 
-### Convolutional Neural Networks (CNNs)
+#### Convolutional Neural Networks (CNNs)
 
 Key components:
 
@@ -92,24 +92,24 @@ Key components:
 - Pooling layers
 - Fully connected layers
 
-### Transfer Learning
+#### Transfer Learning
 
 Using pretrained models to improve performance and reduce training cost
 
 ---
 
-# 3. Natural Language Processing
+## 3. Natural Language Processing
 
 The coursework explores computational approaches for analysing and modelling natural language.
 
-## Text Processing Techniques
+### Text Processing Techniques
 
 - Tokenisation
 - Text normalisation
 - Lemmatization
 - Corpus analysis
 
-## Linguistic Statistical Analysis
+### Linguistic Statistical Analysis
 
 The statistical structure of language was explored through:
 
@@ -117,21 +117,21 @@ The statistical structure of language was explored through:
 - Rank-frequency analysis
 - Zipf's Law
 
-Zipf’s Law describes the inverse relationship between a word's frequency and its rank within a corpus.
+Zipf's Law describes the inverse relationship between a word's frequency and its rank within a corpus.
 
 ---
 
-# 4. Representation Learning and Word Embeddings
+## 4. Representation Learning and Word Embeddings
 
 Text data was represented numerically using vector-based models.
 
-## Core Concepts
+### Core Concepts
 
 - Distributional semantics
 - Vector space representations
 - Context-based word representations
 
-## Models Studied
+### Models Studied
 
 - Word2Vec
 - Transformer-based embeddings
@@ -140,24 +140,24 @@ These methods encode semantic meaning by representing words as vectors in a high
 
 ---
 
-# 5. Transformer Models and Large Language Models
+## 5. Transformer Models and Large Language Models
 
 Modern NLP models based on transformer architectures were explored.
 
-## Key Concepts
+### Key Concepts
 
 - Self-attention mechanisms
 - Contextual word representations
 - Bidirectional language modelling
 
-## Transformer Architecture Components
+### Transformer Architecture Components
 
 - Attention layers
 - Encoder blocks
 - Positional embeddings
 - Token embeddings
 
-## Training Approach
+### Training Approach
 
 - Transfer learning
 - Fine-tuning pretrained language models
@@ -166,18 +166,18 @@ These models allow contextual understanding of text by learning long-range depen
 
 ---
 
-# 6. Knowledge Engineering and Knowledge Graphs
+## 6. Knowledge Engineering and Knowledge Graphs
 
 The coursework explores the representation of structured knowledge using graph-based models.
 
-## Core Concepts
+### Core Concepts
 
 - Knowledge representation
 - Ontologies
 - Semantic relationships
 - Graph data structures
 
-## Knowledge Graph Techniques
+### Knowledge Graph Techniques
 
 - Entity relationship modelling
 - Graph traversal
@@ -188,24 +188,24 @@ Knowledge graphs represent complex systems through **nodes (entities) and edges 
 
 ---
 
-# 7. High-Dimensional Data Analysis
+## 7. High-Dimensional Data Analysis
 
 Many real-world datasets contain thousands of features. The coursework explores techniques for managing and analysing high-dimensional data.
 
-## Challenges
+### Challenges
 
 - Curse of dimensionality
 - Feature redundancy
 - Computational complexity
 
-## Techniques Used
+### Techniques Used
 
-### Dimensionality Reduction
+#### Dimensionality Reduction
 
 - Principal Component Analysis (PCA)
 - Non-negative Matrix Factorization (NMF)
 
-### Feature Filtering
+#### Feature Filtering
 
 - Variance filtering
 - Correlation filtering
@@ -214,17 +214,17 @@ These methods reduce dimensionality while preserving meaningful structure in the
 
 ---
 
-# 8. Bioinformatics Data Analysis
+## 8. Bioinformatics Data Analysis
 
 Machine learning techniques were applied to genomic datasets.
 
-## Analytical Concepts
+### Analytical Concepts
 
 - High-dimensional biological data
 - Genomic feature analysis
 - Data preprocessing pipelines
 
-## Techniques Used
+### Techniques Used
 
 - Missing value imputation
 - Dimensionality reduction
@@ -234,17 +234,17 @@ This work demonstrates how machine learning can support **biomedical research an
 
 ---
 
-# 9. Financial Machine Learning
+## 9. Financial Machine Learning
 
 Machine learning methods were applied to financial time-series analysis.
 
-## Key Concepts
+### Key Concepts
 
 - Time-series modelling
 - Market behaviour analysis
 - Feature engineering for financial indicators
 
-## Techniques Used
+### Techniques Used
 
 - Technical indicator construction
 - Feature selection
@@ -255,11 +255,11 @@ These techniques allow the modelling of complex financial systems and identifica
 
 ---
 
-# 10. Feature Engineering
+## 10. Feature Engineering
 
 Feature engineering is critical for improving model performance.
 
-## Techniques Used
+### Techniques Used
 
 - Feature construction
 - Feature transformation
@@ -268,13 +268,13 @@ Feature engineering is critical for improving model performance.
 
 Good features allow machine learning models to capture **important patterns within the data**.
 
-# 11. Reinforcement Learning and Decision Modelling
+## 11. Reinforcement Learning and Decision Modelling
 
 Reinforcement learning is a machine learning paradigm in which an agent learns to make decisions by interacting with an environment and receiving feedback through rewards.
 
 Unlike supervised learning, reinforcement learning does not rely on labelled data. Instead, the agent learns optimal behaviour through sequential interactions and reward signals.
 
-## Key Concepts
+### Key Concepts
 
 - Agent
 - Environment
@@ -285,7 +285,7 @@ Unlike supervised learning, reinforcement learning does not rely on labelled dat
 
 The objective is to learn a **policy** that selects actions that maximise long-term cumulative rewards.
 
-## Markov Decision Processes (MDPs)
+### Markov Decision Processes (MDPs)
 
 
 Sequential decision problems can be modelled using **Markov Decision Processes (MDPs)**, defined by:
@@ -297,22 +297,22 @@ Sequential decision problems can be modelled using **Markov Decision Processes (
 
 MDPs provide a mathematical framework for modelling and analysing decision-making processes in dynamic systems.
 
-## Learning Outcome
+### Learning Outcome
 
 Understanding reinforcement learning enables modelling of **sequential decision-making problems**, where agents must learn strategies that optimise long-term outcomes.
 
 ---
 
-# Programming and Computational Tools
+## Programming and Computational Tools
 
 The coursework required extensive use of scientific computing tools.
 
-## Programming
+### Programming
 
 - Python
 - Jupyter Notebooks
 
-## Data Science Libraries
+### Data Science Libraries
 
 - NumPy
 - Pandas
@@ -320,23 +320,23 @@ The coursework required extensive use of scientific computing tools.
 - Matplotlib
 - Seaborn
 
-## Deep Learning Frameworks
+### Deep Learning Frameworks
 
 - PyTorch
 - HuggingFace Transformers
 
-## NLP Libraries
+### NLP Libraries
 
 - NLTK
 - Gensim
 
 ---
 
-# Summary of Technical Skills
+## Summary of Technical Skills
 
 The coursework develops knowledge in several key areas of artificial intelligence and data science.
 
-## Core Skills
+### Core Skills
 
 - Machine Learning
 - Deep Learning
@@ -351,7 +351,7 @@ The coursework develops knowledge in several key areas of artificial intelligenc
 
 ---
 
-# Applications
+## Applications
 
 The techniques developed were applied to multiple domains including:
 
@@ -363,7 +363,7 @@ The techniques developed were applied to multiple domains including:
 
 ---
 
-# Links
+## Links
 
 <div>
   <p align="center">

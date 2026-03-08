@@ -3,7 +3,7 @@ layout: default
 title: Camilo Rodriguez – AI and Knowledge Engineering
 ---
 
-<h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n – AI and Knowledge Engineering</p></h1>
+<h1><p align="center">Camilo Andr&eacute;s Rodr&iacute;guez Garz&oacute;n – Artificial Intelligence</p></h1>
 
 The information is an intent to summarises the **theoretical concepts, techniques, and computational methods** developed across coursework in artificial intelligence, machine learning, knowledge engineering, natural language processing, computer vision, and data science.
 
